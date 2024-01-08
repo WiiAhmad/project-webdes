@@ -25,21 +25,24 @@ p,a{
 }
 
 .bg-s{
-  background-color: #f7eaeb;
+  background-color: #9095da;
 }
 
 .c-s{
   color: #e2e3f5;
 }
 
-.bg-d{
-  background-color: #DED0B6;
+.img{
+  height: 300px;
 }
 
-@media screen and (max-width: 768px) {
+.card{
+  background-color: #9095da !important;
+  color: #131127 !important;
+}
 
-  
-  
+.navbar{
+  padding: 4px !important;
 }
 
 
