@@ -42,7 +42,11 @@ p,a{
 }
 
 .navbar{
-  padding: 4px !important;
+  padding: 1px !important;
+}
+
+.btn-close{
+  color: #e2e3f5 !important;
 }
 
 
