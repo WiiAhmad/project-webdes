@@ -6,8 +6,8 @@ body {
 }
 
 main{
-  background-color: #131127;
-  color: #e2e3f5;
+  background-color: #f9fafc;
+  color: #0c0e14;
 }
 
 /* https://github.com/aliifam/BlinkMacSystemFont?tab=readme-ov-file */
@@ -21,11 +21,11 @@ p,a{
 }
 
 .bg-a{
-  background-color: #131127;
+  background-color: #4c69bb;
 }
 
 .bg-s{
-  background-color: #9095da;
+  background-color: #6c89de;
 }
 
 .c-s{
@@ -37,16 +37,12 @@ p,a{
 }
 
 .card{
-  background-color: #9095da !important;
+  background-color: #95a8df !important;
   color: #131127 !important;
 }
 
 .navbar{
-  padding: 1px !important;
-}
-
-.btn-close{
-  color: #e2e3f5 !important;
+  padding: 2px !important;
 }
 
 
