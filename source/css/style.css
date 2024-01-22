@@ -45,6 +45,7 @@ p,a{
   padding: 2px !important;
 }
 
-
-
-
+footer a {
+  text-decoration: none !important; /* Remove underline */
+  color: inherit /* Use the same color as the surrounding text */ !important;
+}
